@@ -1,7 +1,7 @@
-### Hi there 👋
+### Hi, I am Zhou Zhiqiang! 👋
 
 <!--
-**STRRL/STRRL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**STRRL/STRRL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub a.
 
 Here are some ideas to get you started:
 
@@ -14,3 +14,26 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 👷 I am the committer of [Chaos Mesh](https://github.com/chaos-mesh/chaos-mesh), the powerful chaos engineering platform based on Kubernetes.
+- ✍️ I write [blog](https://strrl.dev) and build [knowledge base](https://whatiknown.strrl.dev).
+- 🌱 I am trying to take more efforts on contributing upstream projects like [kubernetes](https://github.com/kubernetes/kubernetes) and [controller-runtime](https://github.com/kubernetes-sigs/controller-runtime).
+- 🤩 I am crazy about these things:
+  - Serverless
+  - Cloud Computing
+  - Full-Stack Development
+- 🔭 I love to collect amazing ideas and implement them:
+  - [what-does-dodo-says](https://github.com/dodo-says/what-does-dodo-say): co-chair committee auditable anonymous forums.
+  - [kube-image](https://github.com/strrl/kubectl-image): docker image but for kubernetes.
+  - factorio-automata: A robot that could play [Factorio](https://www.factorio.com/) without any of human intervention.
+  - [homelab-cloud-controller-manager](https://github.com/STRRL/homelab-cloud-controller-manager): the simple cloud controller manager for homelab. (Archived, use [metallb](https://github.com/metallb/metallb) as instead.)
+
+[![STRRL's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=STRRL&theme=github_dark&hide=python)](https://github.com/anuraghazra/github-readme-stats)
+
+[![STRRL's GitHub stats](https://github-readme-stats.vercel.app/api?username=STRRL&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+
+😜 Keep In Connection!
+
+![GitHub](https://img.shields.io/github/followers/STRRL?logo=github&style=flat-square)
+![Twitter](https://img.shields.io/twitter/follow/strrlthedev?logo=twitter&style=flat-square)
+[![Visits Badge](https://badges.pufler.dev/visits/STRRL/STRRL?style=flat-square)](https://badges.pufler.dev)
