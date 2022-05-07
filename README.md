@@ -29,7 +29,6 @@ Here are some ideas to get you started:
   - [homelab-cloud-controller-manager](https://github.com/STRRL/homelab-cloud-controller-manager): the simple cloud controller manager for homelab. (Archived, use [metallb](https://github.com/metallb/metallb) as instead.)
 
 [![STRRL's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=STRRL&theme=github_dark&hide=python)](https://github.com/anuraghazra/github-readme-stats)
-
 [![STRRL's GitHub stats](https://github-readme-stats.vercel.app/api?username=STRRL&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 😜 Keep In Connection!
