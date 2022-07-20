@@ -1,5 +1,10 @@
 ### Hi, I am Zhou Zhiqiang! 👋
 
+[![Contributions Badge](https://badges.strrl.dev/contributions/all/STRRL)](https://badges.strrl.dev)
+[![Contributions Badge](https://badges.strrl.dev/contributions/weekly/STRRL)](https://badges.strrl.dev)
+[![Commits Badge](https://badges.strrl.dev/commits/weekly/STRRL)](https://badges.strrl.dev)
+[![Issues and PRs Badge](https://badges.strrl.dev/issues-and-prs/weekly/STRRL)](https://badges.strrl.dev)
+
 <!--
 **STRRL/STRRL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub a.
 
@@ -36,4 +41,3 @@ Here are some ideas to get you started:
 [![GitHub](https://img.shields.io/github/followers/STRRL?logo=github&style=flat-square)](https://github.com/strrl)
 [![Twitter](https://img.shields.io/twitter/follow/strrlthedev?logo=twitter&style=flat-square)](https://twitter.com/strrlthedev)
 [![Visits Badge](https://badges.strrl.dev/visits/STRRL/STRRL?style=flat-square)](https://badges.strrl.dev)
-[![GitHub Contributions Badge](https://badges.strrl.dev/contributions/all/STRRL?style=flat-square)](https://badges.strrl.dev)
