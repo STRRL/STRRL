@@ -1,9 +1,9 @@
 ### Hi, I am Zhou Zhiqiang! 👋
 
-[![Contributions Badge](https://badges.strrl.dev/contributions/all/STRRL)](https://badges.strrl.dev)
-[![Contributions Badge](https://badges.strrl.dev/contributions/weekly/STRRL)](https://badges.strrl.dev)
-[![Commits Badge](https://badges.strrl.dev/commits/weekly/STRRL)](https://badges.strrl.dev)
-[![Issues and PRs Badge](https://badges.strrl.dev/issues-and-prs/weekly/STRRL)](https://badges.strrl.dev)
+[![Contributions Badge](https://badges.strrl.dev/contributions/all/STRRL?style=flat-square)](https://badges.strrl.dev)  
+[![Contributions Badge](https://badges.strrl.dev/contributions/weekly/STRRL?style=flat-square)](https://badges.strrl.dev)  
+[![Commits Badge](https://badges.strrl.dev/commits/weekly/STRRL?style=flat-square)](https://badges.strrl.dev)  
+[![Issues and PRs Badge](https://badges.strrl.dev/issues-and-prs/weekly/STRRL?style=flat-square)](https://badges.strrl.dev)
 
 <!--
 **STRRL/STRRL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub a.
