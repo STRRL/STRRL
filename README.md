@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 👷 I am the committer of [Chaos Mesh](https://github.com/chaos-mesh/chaos-mesh), the powerful chaos engineering platform based on Kubernetes.
+- 👷 I am the maintainer of [Chaos Mesh](https://github.com/chaos-mesh/chaos-mesh), the powerful chaos engineering platform based on Kubernetes.
 - ✍️ I write [blog](https://strrl.dev) and build [knowledge base](https://whatiknown.strrl.dev).
 - 🌱 I am trying to take more efforts on contributing upstream projects like [kubernetes](https://github.com/kubernetes/kubernetes) and [controller-runtime](https://github.com/kubernetes-sigs/controller-runtime).
 - 🤩 I am crazy about these things:
