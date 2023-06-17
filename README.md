@@ -28,6 +28,7 @@ Here are some ideas to get you started:
   - Full-Stack Development
 - 🔭 I love to collect amazing ideas and implement them:
   - [serverless-github-badges](https://github.com/STRRL/serverless-github-badges): Useful GitHub Badges and based on serverless!
+  - [Cloudflare Tunnel Ingress Controller](https://github.com/STRRL/cloudflare-tunnel-ingress-controller): Expose Kubernetes Ingress to Internet directly with Cloudflare Tunnel.
   - [what-does-dodo-says](https://github.com/dodo-says/what-does-dodo-say): co-chair committee auditable anonymous forums.
   - [kube-image](https://github.com/strrl/kubectl-image): docker image but for kubernetes.
   - factorio-automata: A robot that could play [Factorio](https://www.factorio.com/) without any of human intervention.
