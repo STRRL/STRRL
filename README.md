@@ -27,12 +27,12 @@ Here are some ideas to get you started:
   - Cloud Computing
   - Full-Stack Development
 - 🔭 I love to collect amazing ideas and implement them:
-  - [serverless-github-badges](https://github.com/STRRL/serverless-github-badges): Useful GitHub Badges and based on serverless!
+  - [Serverless GitHub Badges](https://github.com/STRRL/serverless-github-badges): Useful GitHub Badges and based on serverless!
   - [Cloudflare Tunnel Ingress Controller](https://github.com/STRRL/cloudflare-tunnel-ingress-controller): Expose Kubernetes Ingress to Internet directly with Cloudflare Tunnel.
-  - [what-does-dodo-says](https://github.com/dodo-says/what-does-dodo-say): co-chair committee auditable anonymous forums.
-  - [kube-image](https://github.com/strrl/kubectl-image): docker image but for kubernetes.
-  - factorio-automata: A robot that could play [Factorio](https://www.factorio.com/) without any of human intervention.
-  - [homelab-cloud-controller-manager](https://github.com/STRRL/homelab-cloud-controller-manager): the simple cloud controller manager for homelab. (Archived, use [metallb](https://github.com/metallb/metallb) as instead.)
+  - [What Does dodo Say](https://github.com/dodo-says/what-does-dodo-say): co-chair committee auditable anonymous forums.
+  - [kubectl image](https://github.com/strrl/kubectl-image): docker image but for kubernetes.
+  - Factorio Automata: A robot that could play [Factorio](https://www.factorio.com/) without any of human intervention.
+  - [Homelab Cloud Contorller Manager](https://github.com/STRRL/homelab-cloud-controller-manager): the simple cloud controller manager for homelab. (Archived, use [metallb](https://github.com/metallb/metallb) as instead.)
 
 [![STRRL's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=STRRL&theme=github_dark&hide=python)](https://github.com/anuraghazra/github-readme-stats)
 [![STRRL's GitHub stats](https://github-readme-stats.vercel.app/api?username=STRRL&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
