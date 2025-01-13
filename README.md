@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 ![STRRL on GitRoll](https://gitroll.io/api/badges/profiles/v1/uOFFIOlaBflM7LnUt4fVuXiN0fWo1)
 
-[![STRRL's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=STRRL&theme=github_dark&hide=python)](https://github.com/anuraghazra/github-readme-stats)
+[![STRRL's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=STRRL&theme=github_dark&hide=python,assembly)](https://github.com/anuraghazra/github-readme-stats)
 [![STRRL's GitHub stats](https://github-readme-stats.vercel.app/api?username=STRRL&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 😜 Keep In Connection!
