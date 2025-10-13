@@ -27,6 +27,8 @@ Here are some ideas to get you started:
   - Cloud Computing
   - Full-Stack Development
 - 🔭 I love to collect amazing ideas and implement them:
+  - [Supabase Operator](https://github.com/strrl/supabase-operator): A Kubernetes operator for deploying and managing self-hosted Supabase instances.
+  - [TransCube](https://github.com/strrl/transcube-webapp): A desktop application for transcribing and translating videos with AI-powered speech recognition.
   - [Serverless GitHub Badges](https://github.com/STRRL/serverless-github-badges): Useful GitHub Badges and based on serverless!
   - [Cloudflare Tunnel Ingress Controller](https://github.com/STRRL/cloudflare-tunnel-ingress-controller): Expose Kubernetes Ingress to Internet directly with Cloudflare Tunnel.
   - [What Does dodo Say](https://github.com/dodo-says/what-does-dodo-say): co-chair committee auditable anonymous forums.
