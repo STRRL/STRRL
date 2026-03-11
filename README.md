@@ -27,6 +27,8 @@ Here are some ideas to get you started:
   - Cloud Computing
   - Full-Stack Development
 - 🔭 I love to collect amazing ideas and implement them:
+  - [lapp](https://github.com/strrl/lapp): Log Auto Pattern Pipeline for discovering patterns from log streams with LLMs.
+  - [Wonder Mesh Net](https://github.com/strrl/wonder-mesh-net): A mesh networking control plane built around Headscale, OIDC, and Kubernetes.
   - [Supabase Operator](https://github.com/strrl/supabase-operator): A Kubernetes operator for deploying and managing self-hosted Supabase instances.
   - [TransCube](https://github.com/strrl/transcube-webapp): A desktop application for transcribing and translating videos with AI-powered speech recognition.
   - [Serverless GitHub Badges](https://github.com/STRRL/serverless-github-badges): Useful GitHub Badges and based on serverless!
